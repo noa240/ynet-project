@@ -304,12 +304,14 @@ ul {
     top: 120%;
 
 }
+
 #red{
     width: 49.32%; 
     height: 23%;
     background-color: rgb(222 26 26);
-   position: absolute;
-   top: 133%;
+    position: absolute;
+    top: 119%;
+    cursor: pointer;
 }
 #riad{
     position: absolute;
@@ -322,18 +324,372 @@ ul {
 #stateone{
     width: 70%;
     text-align: right;
-    font-size: larger;
+    font-size: large;
     position: absolute;
-    right:33%;
-    top:0%;
+    right: 37%;
+    top:1%;
+    padding: 0%;
     color: #fff;
+    
 }
 #statetwo{
     width: 65%;
     text-align: right;
-    font-size: medium;
+    font-size: small;
     position: absolute;
-    right: 33%;
-    top: 30%;
+    right: 37%;
+    top: 25%;
     color: #fff;
+}
+#credittwo {
+    color:#fff;
+    font-size: smaller;
+    position: absolute;
+    right: 37%;
+    top: 83.8%;
+
+}
+#blue
+{
+    background-color:#1417AC;
+    width: 49.32%; 
+    height: 23%;
+    position: absolute;
+    top: 145%;
+    cursor: pointer;
+}
+#er{
+    position: absolute;
+    height: 100%;
+    width: auto;
+    top: 0%;
+    right: 0%;
+}
+
+#statethree{
+    width: 70%;
+    text-align: right;
+    font-size: large;
+    position: absolute;
+    right:37%;
+    top:0%;
+    padding: 0%;
+    color: #fff;
+}
+#statefour{
+    width: 65%;
+    text-align: right;
+    font-size: small;
+    position: absolute;
+    right: 37%;
+    top: 25%;
+    color: #fff;
+}
+#creditthree {
+    color:#fff;
+    font-size: smaller;
+    position: absolute;
+    right: 0%;
+    top: 83.8%;
+    right: 37%;
+
+    }
+
+    #smallred {
+   background-color: rgb(222 26 26);
+   width: 49.32%; 
+   height: 23%;
+   position: absolute;
+   top: 171%;
+   cursor: pointer;
+}
+#yael{
+    position: absolute;
+    height: 100%;
+    width: auto;
+    top: 0%;
+    right: 0%;
+}
+
+#statefive{
+    width: 70%;
+    text-align: right;
+    font-size: large;
+    position: absolute;
+    right:37%;
+    top:0%;
+    padding: 0%;
+    color: #fff;
+}
+#statesix{
+    width: 65%;
+    text-align: right;
+    font-size: small;
+    position: absolute;
+    right: 37%;
+    top: 25%;
+    color: #fff;
+}
+#creditfour {
+    color:#fff;
+    font-size: smaller;
+    position: absolute;
+    right: 0%;
+    top: 83.8%;
+    right: 37%;
+
+    }
+    #darkblue{
+        background-color: #0c1c3a;
+        width: 49.32%; 
+        height: 23%;
+       position: absolute;
+       top: 197%;
+       cursor: pointer;
+    }
+    #job{
+        position: absolute;
+        height: 100%;
+        width: auto;
+        top: 0%;
+        right: 0%;
+    }
+    
+    #stateseven{
+        width: 70%;
+        text-align: right;
+        font-size: larger;
+        position: absolute;
+        right:37%;
+        top:0%;
+        padding: 0%;
+        color: #fff;
+    }
+    #stateeight{
+        width: 65%;
+        text-align: right;
+        font-size: small;
+        position: absolute;
+        right: 37%;
+        top: 25%;
+        color: #fff;
+    }
+    #creditfive {
+        color:#fff;
+        font-size: smaller;
+        position: absolute;
+        right: 0%;
+        top: 83.8%;
+        right: 37%;
+    
+        }
+#hot{
+    background-color: #1417AC;
+    height: 6%;
+    width: 48%;
+    position: absolute;
+    right: 0%;
+    top: 225%;
+    
+}    
+#most{
+    color: #fff;
+    font-size: large;
+    text-align: right;
+    position: absolute;
+    top: -43%;
+    right: 2.5%;
+}
+#hotone{
+    background-color: #1417AC;
+    height: 6%;
+    width: 49.5%;
+    position: absolute;
+    left: 0.7%;
+    top: 225%;   
+
+}    
+#mostone{
+    color: #fff;
+    font-size: large;
+    text-align: right;
+    position: absolute;
+    top: -43%;
+    right: 2.5%;
+}
+#green{
+    position: absolute;
+    left: 85%;
+    top:235%;
+    width: 15%;
+    height: auto;
+}
+
+#artone{
+    position: absolute;
+    left: 85%;
+    top: 253%;
+    width: 15%;
+    height: auto;
+    text-align: right;
+    font-size: medium;
+    cursor: pointer;
+
+}
+#artone:hover{
+    color: #1417AC;
+}
+ #arttwo{
+    position: absolute;
+    left: 85%;
+    top: 265%;
+    width: 15%;
+    height: auto;
+    text-align: right;
+    font-size: small;
+    cursor: pointer;
+ }
+
+ #brother{
+    position: absolute;
+    left: 52%;
+    top: 235%;
+    width: 15%;
+    height: auto;
+}
+
+#artthree{
+    position: absolute;
+    left: 52%;
+    top: 253%;
+    width: 15%;
+    height: auto;
+    text-align: right;
+    font-size: medium;
+    cursor: pointer;
+
+}
+#artthree:hover{
+    color: #1417AC;
+}
+ #artfour{
+    position: absolute;
+    left: 52%;
+    top: 265%;
+    width: 15%;
+    height: auto;
+    text-align: right;
+    font-size: small;
+    cursor: pointer;
+ }
+
+ #train{
+    position: absolute;
+    left: 35%;
+    top: 235%;
+    width: 15%;
+    height: auto;
+}
+
+#artfive{
+    position: absolute;
+    left: 35%;
+    top: 253%;
+    width: 15%;
+    height: auto;
+    text-align: right;
+    font-size: medium;
+    cursor: pointer;
+
+}
+#artfive:hover{
+    color: #1417AC;
+}
+ #artsix{
+    position: absolute;
+    left: 35%;
+    top: 265%;
+    width: 15%;
+    height: auto;
+    text-align: right;
+    font-size: small;
+    cursor: pointer;
+ }
+
+ #penthouse{
+    position: absolute;
+    left: 18%;
+    top: 235%;
+    width: 15%;
+    height: auto;
+}
+
+#artseven{
+    position: absolute;
+    left: 18%;
+    top: 253%;
+    width: 15%;
+    height: auto;
+    text-align: right;
+    font-size: medium;
+    cursor: pointer;
+
+}
+#artseven:hover{
+    color: #1417AC;
+}
+#crime{ 
+    position: absolute;
+    left: 1%;
+    top: 235%;
+    width: 15%;
+    height: auto;
+}
+
+#arteight{
+    position: absolute;
+    left: 1%;
+    top: 253%;
+    width: 15%;
+    height: auto;
+    text-align: right;
+    font-size: medium;
+    cursor: pointer;
+
+}
+#arteight:hover{
+    color: #1417AC;
+}
+ #artnine{
+    position: absolute;
+    left: 1%;
+    top: 264%;
+    width: 15%;
+    height: auto;
+    text-align: right;
+    font-size: small;
+    cursor: pointer;
+ }
+#news{
+    background-color: #1417AC;
+    height: 6%;
+    width: 49.5%;
+    position: absolute;
+    left: 0.7%;
+    top: 278%;  
+    color: #fff; 
+}
+#one{
+    text-align: right;
+    position: absolute;
+    font-size: larger;
+    right: 1%;
+    top: -35%;
+}
+#two{
+    text-align: right;
+    position: absolute;
+    font-size: medium;
+    left: 1%;
+    top: -50%;
 }
