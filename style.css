@@ -1,0 +1,339 @@
+#photo{
+    width: 180px;
+    height: auto;
+    position: absolute;
+    left: 42%;
+    top: 3%;
+}
+img:hover{
+    cursor: pointer;
+}
+#bell{
+    position: absolute;
+    left: 96.5%;
+    top: 13.3%;
+    color: red;
+    cursor: pointer;
+}
+#מבזקים{
+    position:absolute;
+    top: 13.5%;
+    left:93%;
+    font-weight: 530;
+    cursor: pointer;
+}
+#pencil{
+    position: absolute;
+    top: 13.5%;
+    left: 90.4%;
+    cursor: pointer;
+}
+#mail{
+    position:absolute;
+    top: 13.5%;
+    left:84.6%;
+    font-weight: 530;
+    cursor: pointer;
+}
+#sun{
+    position:absolute;
+    top: 12.7%;
+    left: 82.3%;
+    width:25px;
+    cursor: pointer;
+}
+#deg {
+    position:absolute;
+    top: 13.5%;
+    left: 80.6%;
+    cursor: pointer;
+    
+}
+#telaviv {
+    position:absolute;
+    top: 13.5%;
+    left: 76.6%;
+    cursor: pointer;
+    }
+#person{
+    position:absolute;
+    top: 13.8%;
+    left: 22%;
+    width: 27px;
+    cursor: pointer;
+
+}
+#log{   
+    position:absolute;
+    top: 13.8%;
+    left:18.3%;
+    font-weight: 530;
+    cursor: pointer;
+
+}
+#plus{
+    position:absolute;
+    width: 210px;
+    height: 44px;
+    top: 10.6%;
+    left: 0%;
+    cursor: pointer;
+
+
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(222, 26, 26);
+    color: #fff;
+    position: sticky;
+    margin-top: 110px;
+    height: 25px;
+
+  }
+  li{
+    float: right;
+    padding-right: 36px;
+    font-weight: 300;
+    transition-property: font-weight;
+    transition-duration: 0.2s;
+  }
+  li:hover{
+    font-weight: 900;
+    cursor: pointer;  
+  }
+
+
+#special {
+    position: absolute;
+    bottom: 25%;
+    padding-left: 5px;
+    
+}
+#space{
+    background-color: #fff;
+    width: 100%;
+    height: 10px;
+}
+#newsflash{
+    background-color:#f3f8f9;
+    width: 100%;
+    height: 100px;
+}
+#vlone {
+    border-left: 0.1px solid rgb(52, 51, 51);
+    height: 70%;
+    position: relative;
+    top: 14.2%;
+    left: 81.7%
+
+  }
+  #starone{
+    width:18%;
+    position: absolute;
+    top: 32%;
+    left: 95.9%;
+    font-size: small;
+    color: #000000;
+    transition-property:color;
+    transition-duration: 0.1s;
+
+  }
+  #starone:hover{
+    color:#006680;
+    cursor: pointer;
+  }
+  .blue{
+    color: #000000;
+    transition-property:color;
+    transition-duration: 0.1s;
+  }
+
+  .blue:hover{
+    color:#031a9a;
+    cursor: pointer;
+
+  }
+  #startwo{
+    width: 15%;
+    position:absolute;
+    text-align: right;
+    left:83.5%;
+    top: 35%;
+    font-size: small;
+    }
+#starthree{
+    width:18%;
+    position: absolute;
+    left: 76.5%;
+    top: 32%;
+    font-size: small;
+}
+#starfour{
+    width: 13%;
+    position:absolute;
+    text-align: right;
+    left:66%;
+    top: 35%;
+    font-size: small;
+}
+#vltwo
+{
+    border-left: 0.1px solid rgb(52, 51, 51);
+    height: 70px;
+    position: absolute;
+    top: 32.3%;
+    left: 64%;
+   
+}
+#starfive{
+    width:18%;
+    position: absolute;
+    left: 59.5%;
+    top: 32%;
+    font-size: small;
+}
+#starsix{
+    width: 13%;
+    position:absolute;
+    text-align: right;
+    left:49%;
+    top: 35%;
+    font-size: small;
+}
+#vlthree
+{
+    border-left: 0.1px solid rgb(52, 51, 51);
+    height: 70px;
+    position: absolute;
+    top: 32.3%;
+    left: 46.7%;
+    
+}
+#starseven{
+    width:18%;
+    position: absolute;
+    left: 42.5%;
+    top: 32%;
+    font-size:small;
+
+}
+#stareight{
+    width: 14%;
+    position:absolute;
+    text-align: right;
+    left:31%;
+    top: 35%;
+    font-size: small;
+}
+#vlfour
+{
+    border-left: 0.1px solid rgb(52, 51, 51);
+    height: 70px;
+    position: absolute;
+    top: 32.3%;
+    left: 29%
+}
+#starnine{
+    width:18%;
+    position: absolute;
+    left: 25.5%;
+    top: 32%;
+    font-size:small;
+
+}
+#starten{
+    width: 14%;
+    position:absolute;
+    text-align: right;
+    left:14%;
+    top: 35%;
+    font-size: small;
+}
+
+
+#flash{
+    color: rgb(222, 26, 26);
+    position: absolute;
+    top: 34%;
+    left: 4%;
+    
+}
+#flash:hover {
+    cursor: pointer;
+}
+
+#caplan{
+    width:50%;
+    height: auto;
+
+}
+#date{
+    position: absolute;
+    top:58%;
+    right: 1%;
+    width: 15%;
+}
+#headline{
+    font-size:xx-large;
+    width: 48%;
+    height: 50%;
+    position: absolute;
+    right: 0%;
+    top:60% ;
+    text-align: right;
+
+}
+#artical {
+    width: 48%;
+    position: absolute;
+    right: 0%;
+    top: 90%;
+    text-align: right;
+    font-size: large;
+}
+#credit{
+    color: grey;
+    font-size: medium;
+    position: absolute;
+    right: 0%;
+    top: 120%;
+
+}
+#red{
+    width: 49.32%; 
+    height: 23%;
+    background-color: rgb(222 26 26);
+   position: absolute;
+   top: 133%;
+}
+#riad{
+    position: absolute;
+    height: 100%;
+    width: auto;
+    top: 0%;
+    right: 0%;
+}
+
+#stateone{
+    width: 70%;
+    text-align: right;
+    font-size: larger;
+    position: absolute;
+    right:33%;
+    top:0%;
+    color: #fff;
+}
+#statetwo{
+    width: 65%;
+    text-align: right;
+    font-size: medium;
+    position: absolute;
+    right: 33%;
+    top: 30%;
+    color: #fff;
+}
