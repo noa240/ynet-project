@@ -268,7 +268,7 @@ ul {
 }
 
 #caplan{
-    width: 46%;
+    width: 49.32%;
     height: auto;
     position: absolute;
     top: 57%;
@@ -312,7 +312,7 @@ ul {
     height: 23%;
     background-color: rgb(222 26 26);
     position: absolute;
-    top: 125%;
+    top: 130%;
     cursor: pointer;
 }
 #riad{
@@ -357,7 +357,7 @@ ul {
     width: 49.32%; 
     height: 23%;
     position: absolute;
-    top: 150%;
+    top: 155%;
     cursor: pointer;
 }
 #er{
@@ -402,7 +402,7 @@ ul {
    width: 49.32%; 
    height: 23%;
    position: absolute;
-   top: 175%;
+   top: 180%;
    cursor: pointer;
 }
 #yael{
@@ -446,7 +446,7 @@ ul {
         width: 49.32%; 
         height: 23%;
        position: absolute;
-       top: 200%;
+       top: 205%;
        cursor: pointer;
     }
     #job{
@@ -491,7 +491,7 @@ ul {
     width: 48%;
     position: absolute;
     right: 0%;
-    top: 225%;
+    top: 230%;
     
 }    
 #most{
@@ -508,7 +508,7 @@ ul {
     width: 49.5%;
     position: absolute;
     left: 0.7%;
-    top: 225%;   
+    top: 230%;   
 
 }    
 #mostone{
@@ -522,7 +522,7 @@ ul {
 #green{
     position: absolute;
     left: 85%;
-    top:235%;
+    top:240%;
     width: 15%;
     height: auto;
 }
@@ -530,7 +530,7 @@ ul {
 #artone{
     position: absolute;
     left: 85%;
-    top: 253%;
+    top: 258%;
     width: 15%;
     height: auto;
     text-align: right;
@@ -544,7 +544,7 @@ ul {
  #arttwo{
     position: absolute;
     left: 85%;
-    top: 265%;
+    top: 270%;
     width: 15%;
     height: auto;
     text-align: right;
@@ -555,7 +555,7 @@ ul {
  #brother{
     position: absolute;
     left: 52%;
-    top: 235%;
+    top: 240%;
     width: 15%;
     height: auto;
 }
@@ -563,7 +563,7 @@ ul {
 #artthree{
     position: absolute;
     left: 52%;
-    top: 253%;
+    top: 258%;
     width: 15%;
     height: auto;
     text-align: right;
@@ -577,7 +577,7 @@ ul {
  #artfour{
     position: absolute;
     left: 52%;
-    top: 265%;
+    top: 270%;
     width: 15%;
     height: auto;
     text-align: right;
@@ -588,7 +588,7 @@ ul {
  #train{
     position: absolute;
     left: 35%;
-    top: 235%;
+    top: 240%;
     width: 15%;
     height: auto;
 }
@@ -596,7 +596,7 @@ ul {
 #artfive{
     position: absolute;
     left: 35%;
-    top: 253%;
+    top: 258%;
     width: 15%;
     height: auto;
     text-align: right;
@@ -610,7 +610,7 @@ ul {
  #artsix{
     position: absolute;
     left: 35%;
-    top: 265%;
+    top: 270%;
     width: 15%;
     height: auto;
     text-align: right;
@@ -621,7 +621,7 @@ ul {
  #penthouse{
     position: absolute;
     left: 18%;
-    top: 235%;
+    top: 240%;
     width: 15%;
     height: auto;
 }
@@ -629,7 +629,7 @@ ul {
 #artseven{
     position: absolute;
     left: 18%;
-    top: 253%;
+    top: 258%;
     width: 15%;
     height: auto;
     text-align: right;
@@ -643,7 +643,7 @@ ul {
 #crime{ 
     position: absolute;
     left: 1%;
-    top: 235%;
+    top: 240%;
     width: 15%;
     height: auto;
 }
@@ -651,7 +651,7 @@ ul {
 #arteight{
     position: absolute;
     left: 1%;
-    top: 253%;
+    top: 258%;
     width: 15%;
     height: auto;
     text-align: right;
@@ -665,7 +665,7 @@ ul {
  #artnine{
     position: absolute;
     left: 1%;
-    top: 264%;
+    top: 269%;
     width: 15%;
     height: auto;
     text-align: right;
@@ -678,7 +678,7 @@ ul {
     width: 49.5%;
     position: absolute;
     left: 0.7%;
-    top: 278%;  
+    top: 285%;  
     color: #fff; 
 }
 #one{
