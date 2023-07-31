@@ -268,8 +268,10 @@ ul {
 }
 
 #caplan{
-    width:50%;
+    width: 46%;
     height: auto;
+    position: absolute;
+    top: 57%;
 
 }
 #date{
@@ -310,7 +312,7 @@ ul {
     height: 23%;
     background-color: rgb(222 26 26);
     position: absolute;
-    top: 119%;
+    top: 125%;
     cursor: pointer;
 }
 #riad{
@@ -355,7 +357,7 @@ ul {
     width: 49.32%; 
     height: 23%;
     position: absolute;
-    top: 145%;
+    top: 150%;
     cursor: pointer;
 }
 #er{
@@ -400,7 +402,7 @@ ul {
    width: 49.32%; 
    height: 23%;
    position: absolute;
-   top: 171%;
+   top: 175%;
    cursor: pointer;
 }
 #yael{
@@ -444,7 +446,7 @@ ul {
         width: 49.32%; 
         height: 23%;
        position: absolute;
-       top: 197%;
+       top: 200%;
        cursor: pointer;
     }
     #job{
@@ -693,3 +695,4 @@ ul {
     left: 1%;
     top: -50%;
 }
+
